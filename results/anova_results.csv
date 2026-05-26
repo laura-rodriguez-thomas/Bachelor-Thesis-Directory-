@@ -1,0 +1,49 @@
+scenario_id,kpi,f_statistic,p_value,significance
+1,total_time_min,382.574,0.0,***
+1,total_distance_km,265.123,0.0,***
+1,people_reached_within_60min,31.204,0.0,***
+1,priority1_shelters_reached_within_60min,,,skipped (no variance)
+1,avg_speed_kmh,3522.6,0.0,***
+1,coverage_rate_pct,,,skipped (no variance)
+1,shelters_reached_within_60min,,,skipped (no variance)
+1,time_to_50pct_people_min,561.113,0.0,***
+2,total_time_min,508.558,0.0,***
+2,total_distance_km,151.767,0.0,***
+2,people_reached_within_60min,148.997,0.0,***
+2,priority1_shelters_reached_within_60min,199.445,0.0,***
+2,avg_speed_kmh,3948.183,0.0,***
+2,coverage_rate_pct,,,skipped (no variance)
+2,shelters_reached_within_60min,199.445,0.0,***
+2,time_to_50pct_people_min,407.0,0.0,***
+3,total_time_min,1047.784,0.0,***
+3,total_distance_km,131.905,0.0,***
+3,people_reached_within_60min,945.325,0.0,***
+3,priority1_shelters_reached_within_60min,733.963,0.0,***
+3,avg_speed_kmh,4306.647,0.0,***
+3,coverage_rate_pct,,,skipped (no variance)
+3,shelters_reached_within_60min,733.963,0.0,***
+3,time_to_50pct_people_min,670.68,0.0,***
+4,total_time_min,1724.482,0.0,***
+4,total_distance_km,281.208,0.0,***
+4,people_reached_within_60min,421.417,0.0,***
+4,priority1_shelters_reached_within_60min,108.557,0.0,***
+4,avg_speed_kmh,3910.895,0.0,***
+4,coverage_rate_pct,0.0,1.0,ns
+4,shelters_reached_within_60min,1374.182,0.0,***
+4,time_to_50pct_people_min,97.978,0.0,***
+5,total_time_min,1016.365,0.0,***
+5,total_distance_km,207.681,0.0,***
+5,people_reached_within_60min,296.165,0.0,***
+5,priority1_shelters_reached_within_60min,80.93,0.0,***
+5,avg_speed_kmh,2060.23,0.0,***
+5,coverage_rate_pct,0.0,1.0,ns
+5,shelters_reached_within_60min,1704.715,0.0,***
+5,time_to_50pct_people_min,158.243,0.0,***
+6,total_time_min,719.291,0.0,***
+6,total_distance_km,188.377,0.0,***
+6,people_reached_within_60min,144.761,0.0,***
+6,priority1_shelters_reached_within_60min,83.165,0.0,***
+6,avg_speed_kmh,1241.966,0.0,***
+6,coverage_rate_pct,0.0,1.0,ns
+6,shelters_reached_within_60min,1780.81,0.0,***
+6,time_to_50pct_people_min,467.91,0.0,***
